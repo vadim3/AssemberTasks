@@ -1,4 +1,3 @@
-//Factorial function  AT&T syntax
 foo:
  cmp $0, %edi
  jg calc
